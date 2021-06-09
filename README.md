@@ -1,7 +1,7 @@
 # React-SpringBoot Project [ 미유미유 ]
 ![image](https://user-images.githubusercontent.com/37062292/121138766-fe1be500-c872-11eb-8c4d-26996f171d10.png)
 - `React` `SpringBoot` 를 학습하기 위해 진행된 개인 프로젝트입니다.
-
+- 프로젝트를 진행하면서 학습한 내용은 https://velog.io/@gudwh14/series/React-SpringBoot 에서 확인 할 수 있습니다.
 <br>
 
 # 기획
